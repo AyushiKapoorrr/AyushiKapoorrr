@@ -1,5 +1,5 @@
-## Hi, I'm Ayushi 
-#Developer • Problem Solver • Builder
+### Hi, I'm Ayushi 
+##Developer • Problem Solver • Builder
 
 # 💫 About Me:
 🔭 I’m currently working on building small projects to sharpen my development skills<br>🧑‍🤝‍🧑 I’m looking to collaborate on simple, beginner-friendly ideas that help me grow as a developer<br>🤝 I’m looking for help with improving my understanding of modern development frameworks<br>🌱 I’m currently learning new programming languages and libraries<br>💬 Ask me about general tech curiosity .I love discussing ideas<br>⚡ Fun fact I break things just to learn how to fix them!
